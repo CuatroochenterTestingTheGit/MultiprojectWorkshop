@@ -11,10 +11,10 @@
   "url": "",
   "logo": "",
   "dependencies": [
-    "id": "470051b3-7a14-4eb8-b46e-651d5c18ef55",
+    {"id": "470051b3-7a14-4eb8-b46e-651d5c18ef55",
     "name": "Licensing",
     "publisher": "Yo",
-    "version": "1.0.0.0"
+    "version": "1.0.0.0"}
   ],
   "screenshots": [],
   "platform": "1.0.0.0",
